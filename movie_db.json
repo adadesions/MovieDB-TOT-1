@@ -14,6 +14,15 @@
             "artist": "แอนน์ แฮททาเวย์",
             "year": "2020",
             "description": "Comady"
+        },
+        {
+            
+            "id": "22",
+            "movie_name": "Emily in Paris",
+            "director": "Darren Star",
+            "artist": "lily collins",
+            "year": "2020",
+            "description": "Comedy"
         }
     ]
 }
