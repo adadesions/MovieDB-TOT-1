@@ -158,6 +158,14 @@
             "artist": "Daniel Radcliffe",
             "year": "2007",
             "description": "Order of the Phoenix"
+        },
+        {
+            "id": "21",
+            "movie_name": "Stranger Things",
+            "director": "Matt Duffer, Ross Duffer",
+            "artist": "Millie Bobby Brown",
+            "year": "2016",
+            "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
         }
     ]
 }
