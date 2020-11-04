@@ -177,12 +177,19 @@
         },
         {
             "id": "23",
-            "movie_name": "Chilling Adventures of Sabrina",
-            "director": "Roberto Aguirre-Sacasa",
-            "artist": "Kiernan Shipka",
-            "year": "2018",
-            "description": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic."
+            "movie_name": "Star trek Discovery",
+            "director": "J. J. Abrams; ‎Damon Lindelof",
+            "artist": "Sonequa Martin-GreenJoe Russo, Anthony Russo",
+            "year": "2017",
+            "description": "Science fiction"
+        },
+        {
+            "id": "24",
+            "movie_name": "2 Hearts",
+            "director": "Lance Hool",
+            "artist": "Veronica Hool",
+            "year": "2020",
+            "description": "Drama"
         }
-        
     ]
 }
