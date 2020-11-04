@@ -161,11 +161,28 @@
         },
         {
             "id": "21",
-            "movie_name": "Stranger Things",
-            "director": "Matt Duffer, Ross Duffer",
-            "artist": "Millie Bobby Brown",
-            "year": "2016",
-            "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+            "movie_name": "Emily in the paris",
+            "director": "Darren Star",
+            "artist": "lily collins",
+            "year": "2020",
+            "description": "American moving to Paris to provide an American point of view in a marketing firm there."
+        },
+        {
+            "id": "22",
+            "movie_name": "paris",
+            "director": "Darren",
+            "artist": "lily collins",
+            "year": "2020",
+            "description": "American moving to Paris to provide an American point of view in a marketing firm there."
+        },
+        {
+            "id": "23",
+            "movie_name": "Chilling Adventures of Sabrina",
+            "director": "Roberto Aguirre-Sacasa",
+            "artist": "Kiernan Shipka",
+            "year": "2018",
+            "description": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic."
         }
+        
     ]
 }
