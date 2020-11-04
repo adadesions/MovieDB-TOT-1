@@ -1,6 +1,4 @@
-{
-    "movie": 
-    [
+
         {
             "id": "31",
             "movie_name": "We Bare Bears: The Movie",
@@ -9,5 +7,3 @@
             "year": "2020",
             "description": "Animation"
        }
-    ]
-}
