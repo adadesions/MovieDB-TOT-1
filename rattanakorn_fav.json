@@ -7,6 +7,38 @@
             "artist": "Dafne Keen, Kit Connor, Amir Wilson",
             "year": "2019",
             "description": "Adventure"
+        },
+        {
+            "id": "2",
+            "movie_name": "INTRUDER",
+            "director": "Sohn Won-Pyung",
+            "artist": "Mu-Yeol Kim, Ji-Hyo Song",
+            "year": "2020",
+            "description": " Mystery"
+        },
+        {
+            "id": "3",
+            "movie_name": "BENDING THE ARC",
+            "director": "Kief Davidson",
+            "artist": "Paul Farmer, Ophelia Dahl, Jim Yong Kim, Jaime Bayona",
+            "year": "2017",
+            "description": " Documentary"
+        },
+        {
+            "id": "4",
+            "movie_name": "DJ CINDERELLA",
+            "director": "Bruno Garotti",
+            "artist": "Maisa Silva, Filipe Bragança, Fernanda Paes Leme",
+            "year": "2020",
+            "description": "Music"
+        },
+        {
+            "id": "5",
+            "movie_name": "DREAM CHANGE LAUNDROMAT",
+            "director": "Ahn Sung-gon",
+            "artist": "Jei (Fiestar), Kang-hee, Yoon Ji-min",
+            "year": "2017",
+            "description": "Romance"
         }
     ]
 }
