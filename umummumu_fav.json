@@ -1,0 +1,10 @@
+{
+    "movie": [{
+        "id": "1",
+        "movie_name": "Burlesque",
+        "director": "Steven Antin",
+        "artist": "Christina Aguilera",
+        "year": "2010",
+        "description": "backstage musical film"
+    }]
+}
