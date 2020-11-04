@@ -1,0 +1,12 @@
+{
+    "movies" :[
+        {
+            "id": "3",
+            "movie_name": "Friend Zone1",
+            "director": "Chayanop Boonprokob",
+            "artist": "Naphat Siangsomboon",
+            "year": "2019",
+            "description": "Comedies"
+        }
+    ]
+}
