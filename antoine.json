@@ -1,0 +1,10 @@
+    {
+        "movie": [{
+            "id": "1",
+            "movie_name": "Parasite ",
+            "director": "Bong Joon-Ho",
+            "artist": "Jang Hye-Jin",
+            "year": "2019",
+            "description": "Palm d’Or"
+        }]
+    }
