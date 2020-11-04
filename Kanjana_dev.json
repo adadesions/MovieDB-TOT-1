@@ -1,0 +1,12 @@
+{
+    "movie": [
+        {
+            "id": "31",
+            "movie_name": "We Bare Bears: The Movie",
+            "director": "Daniel Chong",
+            "artist": "Sonequa Martin-GreenJoe Russo, Anthony Russo",
+            "year": "2020",
+            "description": "Animation"
+       }
+    ]
+} 
