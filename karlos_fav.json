@@ -1,0 +1,44 @@
+{
+    "movie": [
+        {
+            "id": "1",
+            "movie_name": "THE DARK AND THE WICKED",
+            "director": "Bryan Bertino",
+            "artist": "Bryan Bertino",
+            "year": "2020",
+            "description": "Comady"
+        },
+        {
+            "id": "2",
+            "movie_name": "TRIGGERED",
+            "director": "Alastair Orr",
+            "artist": "Alastair Orr",
+            "year": "2020",
+            "description": "Comady"
+        },
+        {
+            "id": "3",
+            "movie_name": "MINOR PREMISE",
+            "director": "Eric Schultz",
+            "artist": "Eric Schultz",
+            "year": "2020",
+            "description": "Comady"
+        },
+        {
+            "id": "4",
+            "movie_name": "THE DARK AND THE WICKED",
+            "director": "Bryan Bertino",
+            "artist": "Bryan Bertino",
+            "year": "2020",
+            "description": "Comady"
+        },
+        {
+            "id": "5",
+            "movie_name": "Run",
+            "director": "Aneesh Chaganty",
+            "artist": "Aneesh Chaganty",
+            "year": "2020",
+            "description": "Comady"
+        }
+    ]
+}
